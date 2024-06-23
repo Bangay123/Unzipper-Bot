@@ -6,7 +6,7 @@ class Config(object):
     # Mandotory
     APP_ID = int(os.environ.get("APP_ID"))
     API_HASH = os.environ.get("API_HASH")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN")
+    BOT_TOKEN = os.environ.get("6936393064:AAHv17CQe9dKDcT6RZBjG31j46YREXo5tGU")
     LOGS_CHANNEL = int(os.environ.get("LOGS_CHANNEL"))
     BOT_OWNER = int(os.environ.get("BOT_OWNER"))
     MONGODB_URL = os.environ.get("MONGODB_URL")
